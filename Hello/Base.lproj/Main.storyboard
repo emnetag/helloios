@@ -59,10 +59,10 @@
                                 <exclude reference="kUk-mj-xl9"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="xrt-LS-YgA"/>
+                                <exclude reference="iUJ-XJ-ZtT"/>
                                 <exclude reference="DIh-BU-zdy"/>
                                 <exclude reference="Hbt-QH-f1h"/>
-                                <exclude reference="iUJ-XJ-ZtT"/>
+                                <exclude reference="xrt-LS-YgA"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -71,10 +71,10 @@
                                 <include reference="kUk-mj-xl9"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="xrt-LS-YgA"/>
+                                <include reference="iUJ-XJ-ZtT"/>
                                 <include reference="DIh-BU-zdy"/>
                                 <include reference="Hbt-QH-f1h"/>
-                                <include reference="iUJ-XJ-ZtT"/>
+                                <include reference="xrt-LS-YgA"/>
                             </mask>
                         </variation>
                     </view>
